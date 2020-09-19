@@ -1,3 +1,0 @@
-export const TOOGLE_DARK_THEME = 'TOOGLE_DARK_THEME';
-export const UPDATE_APP_DRAWER = 'UPDATE_APP_DRAWER';
-
